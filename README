@@ -1,0 +1,28 @@
+Alla webbsidor på hd.se inkluderar in en liten textfil vars eventuella
+innehåll visas väldigt högt upp på sajten.
+Vi kallar den här featuren "lavinmeddelande".
+
+Vi utnyttjar detta för att kunna publicera lavinmeddelande, en kort
+informationssnutt, när det uppstår problem med till exempel tryckning
+eller distribution.
+
+Det här projektet består av en PHP-baserad webbsida för att hantera
+innehållet i textfilen. Så enkelt som det bara går.
+
+
+Originalkoden var i Lasso och byggd av Joakim Jardenberg, 2003.
+
+From: Joakim Jardenberg <joakim@infinit.se>
+Date: Wed, 2 Jul 2003 07:39:02 +0200
+Subject: Lavinmeddelande
+
+...
+
+Det är alltså funktionen för att skapa, ändra och ta bort det sk 
+lavinmeddelandet. Det är det gråa textfält som med en knapptryckning 
+kan läggas in på HELA sajten. Det dyker upp överst i det redaktionella 
+"fönstret", precis ovanför huvudrubriken.
+
+Den här tjänsten ska användas MYCKET sparsamt, som anges av namnet.
+
+...
